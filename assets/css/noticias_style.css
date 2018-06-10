@@ -1,0 +1,91 @@
+.navbar .navbar-nav .nav-link{
+	font-size: 16px;
+  	font-family: 'NTR', sans-serif;
+  	color:#d15344;
+}
+
+header{
+
+	font-family: 'Quicksand', sans-serif;
+   
+}
+
+header div.texto{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+   
+}
+
+header img{
+	margin-top: 30px;
+}
+
+
+.row{
+	
+	font-family: 'Quicksand', sans-serif;
+   
+}
+
+.container h2{
+	font-size:28px;
+	color:#00a3b6;
+	margin-top: 10px;
+
+}
+
+.container .post {
+	margin-bottom: 20px;
+}
+
+.autor{
+	font-size:28px;
+	color:#d15344;
+	
+
+}
+
+
+.container img{
+	margin-bottom: 30px;
+}
+
+.container .autor{
+	font-size:10px;
+	font-style: italic;
+}
+
+.container .post{
+	margin-top: 30px;
+} 
+
+.container .btn {
+	margin-bottom: 30px;
+}
+
+
+
+.sidebar ul{
+
+       list-style:none;
+       
+}
+
+footer {
+	background-color: #00a3b6;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+footer .info{
+	color: #fff;
+
+}
+
+footer .form-group{
+	color:#fff;
+}
